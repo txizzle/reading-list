@@ -69,7 +69,7 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 
 ### Papers
 
-- [] **Tuning Recurrent Neural Networks With Reinforcement Learning** (ICLR 2017), N. Jacques et al. [[pdf]](https://openreview.net/pdf?id=BJ8fyHceg)
+- [ ] **Tuning Recurrent Neural Networks With Reinforcement Learning** (ICLR 2017), N. Jacques et al. [[pdf]](https://openreview.net/pdf?id=BJ8fyHceg)
 
 ### Other
 - [x] **The Unreasonable Effectiveness of Recurrent Neural Networks** (2015), A. Karpathy [[article]](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -100,7 +100,7 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] **Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks** (SP 2016), N. Papernot et al. [[pdf]](https://arxiv.org/pdf/1511.04508.pdf)
 - [x] **Adversarial Example Defenses: Ensembles of Weak Defenses are not Strong** (2017), W. He et al. [[pdf]](https://arxiv.org/pdf/1706.04701.pdf)
 - [x] **MagNet: a Two-Pronged Defense against Adversarial Examples** (2017), D. Meng and H. Chen [[pdf]](https://arxiv.org/pdf/1705.09064.pdf)
-- [] **Explaining and Harnessing Adversarial Examples** (ICLR 2015), I. Goodfellow et al. [[pdf]](https://pdfs.semanticscholar.org/bee0/44c8e8903fb67523c1f8c105ab4718600cdb.pdf)
+- [ ] **Explaining and Harnessing Adversarial Examples** (ICLR 2015), I. Goodfellow et al. [[pdf]](https://pdfs.semanticscholar.org/bee0/44c8e8903fb67523c1f8c105ab4718600cdb.pdf)
 - [x] [_BiGANs_] **Adversarial Feature Learning** (ICLR 2017), J. Donahue et al. [[pdf]](https://arxiv.org/pdf/1510.00149.pdf)
 - [ ] [_CycleGANs_] **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)
 - [ ] [_pix2pix_] **Image-to-Image Translation with Conditional Adversarial Nets** (CVPR 2017), P. Isola et al. [[pdf]](https://arxiv.org/pdf/1611.07004v1.pdf)
