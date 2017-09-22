@@ -41,8 +41,14 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] [_UNREAL_] **Reinforcement Learning with Unsupervised Auxiliary Tasks** (ICLR 2017), M. Jaderberg et al. [[pdf]](https://arxiv.org/pdf/1611.05397.pdf)
 - [x] **Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning** (NIPS 2014), X. Guo et al. [[pdf]](https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)
 - [ ] [_DQN_] **Human-level control through deep reinforcement learning** (Nature 2015), V. Mnih et al. [[pdf]](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+- [ ] [_Double DQN_] **Deep Reinforcement Learning with Double Q-Learning** (AAAI 2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
+- [ ] [_Prioritized Replay_] **Prioritized Experience Replay** (ICLR 2016), T. Schaul et al. [[pdf](https://arxiv.org/pdf/1511.05952.pdf)
+- [ ] [_Dueling DQN_] **Dueling Network Architectures for Deep Reinforcement Learning** (ICML 2016 Best Paper), Z. Wang et al. [[pdf](https://arxiv.org/pdf/1511.06581.pdf)
+- [ ] [_Policy Gradients_] **Policy Gradient Methods for Reinforcement Learning with Function Approximation** (NIPS 1999), R. Sutton et al. 
+- [ ] [_DDPG_] **Continuous control with deep reinforcement learning** (ICLR 2016), T. Lillicrap et al. [[pdf](https://arxiv.org/pdf/1509.02971.pdf)
 - [ ] [_TRPO_] **Trust Region Policy Optimization** (ICML 2015), J. Schulman et al. [[pdf]](https://arxiv.org/pdf/1502.05477.pdf)
 - [ ] [_A3C_] **Asynchronous Methods for Deep Reinforcement Learning** (ICML 2016), V. Mnih et al. [[pdf]](https://arxiv.org/pdf/1602.01783.pdf)
+- [ ] [_DAgger_] **A reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning** (AISTATS 2011), S. Ross et al. [[pdf]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)
 - [ ] **Continuous Deep Q-Learning with Model-based Acceleration** (ICML 2016), S. Gu et al. [[pdf]](https://arxiv.org/pdf/1603.00748.pdf)
 - [ ] **Real-Time Grasp Detection Using Convolutional Neural Networks** (ICRA 2015), J. Redmon and A. Angelova [[pdf]](https://arxiv.org/pdf/1412.3128.pdf)
 - [ ] **Deep Visual Foresight for Planning Robot Motion** (ICRA 2017), C. Finn and S. Levine [[pdf]](http://arxiv.org/pdf/1610.00696)
@@ -52,14 +58,20 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 
 ### Other
 
+- [x] [_Overview, DQN, Policy Gradients_] **Deep Reinforcement Learning Overview** (2016), D. Silver [[presentation](http://hunch.net/~beygel/deep_rl_tutorial.pdf)]
+- [x] [_DQN_] **Simple Reinforcement Learning with Tensorflow Part 4: Deep Q-Networks and Beyond** (2016), A. Juliani [[article](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df)]
 - [x] [_Policy Gradients_] **Deep Reinforcement Learning: Pong from Pixels** (2016), A. Karpathy [[article]](http://karpathy.github.io/2016/05/31/rl/)
+- [x] [_A3C_] **Let's Make an A3C: Theory**, J. Janisch [[article]](https://jaromiru.com/2017/02/16/lets-make-an-a3c-theory/)
+- [ ] [_Policy Gradients_] **Going Deeper Into Reinforcement Learning: Fundamentals of Policy Gradients** (2017), D. Takeshi [[article](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)]
 
-## Computer Visions / CNNs
+## Computer Vision / CNNs
 
 ### Papers
 
 - [x] [_ResNets_] **Deep Residual Learning for Image Recognition** (CVPR 2016 Best Paper, ILSVRC & COCO 2015 winner), K. He et al. [[pdf]](https://arxiv.org/pdf/1603.05027.pdf)
 - [x] **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices** (2017), X. Zhang et al. [[pdf]](https://arxiv.org/pdf/1707.01083.pdf)
+- [x] **Fully Convolutional Networks for Semantic Segmentation** (CVPR 2015), E. Shelhamer et al. [[pdf]](https://arxiv.org/pdf/1605.06211.pdf)
+- [x] **Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks** (CVPR 2017 Spotlight), X. Yang et al. [[pdf]](https://arxiv.org/pdf/1706.02337.pdf) 
 - [ ] **Identity Mappings in Deep Residual Networks** (ECCV 2016), K. He et al. 
 
 ### Other
