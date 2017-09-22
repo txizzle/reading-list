@@ -2,7 +2,7 @@
 
 A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers.
 
-*Last updated: 8/31/2017*
+*Last updated: 9/22/2017*
 
 ## General Resources
 
@@ -55,6 +55,8 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [ ] **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (IJRR 2017), S. Levine et al. [[pdf]](http://journals.sagepub.com/doi/full/10.1177/0278364917710318)
 - [ ] **End-to-End Training of Deep Visuomotor Policies** (JMLR 2016), S. Levine et al. [[pdf]](http://arxiv.org/pdf/1504.00702)
 - [ ] **Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning** (2017), A. Nagabandi et al. [[pdf]](https://arxiv.org/pdf/1708.02596)
+- [ ] **Learning with Opponent-Learning Awareness** (2017), J. Foerster et al. [[pdf]](https://arxiv.org/abs/1709.04326)
+- [ ] **An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning** (2017), Y. Yang et al. [[pdf]](https://arxiv.org/pdf/1709.04511.pdf)
 
 ### Other
 
