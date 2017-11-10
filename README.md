@@ -43,15 +43,16 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] **A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning** (NIPS 2017), M. Lanctot et al. [[pdf]](https://arxiv.org/pdf/1711.00832.pdf)
 - [x] **Time-Contrastive Networks: Self-Supervised Learning from Video** P. Sermanet et al. [[pdf]](https://arxiv.org/pdf/1704.06888.pdf)
 - [x] **Curiosity-driven Exploration by Self-supervised Prediction** (ICML 2017), D. Pathak et al. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf)
-- [ ] [_DQN_] **Human-level control through deep reinforcement learning** (Nature 2015), V. Mnih et al. [[pdf]](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
-- [ ] [_Double DQN_] **Deep Reinforcement Learning with Double Q-Learning** (AAAI 2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
+- [x] [_DQN_] **Human-level control through deep reinforcement learning** (Nature 2015), V. Mnih et al. [[pdf]](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+- [x] [_DAgger_] **A reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning** (AISTATS 2011), S. Ross et al. [[pdf]](http://proceedings.mlr.press/v15/
+- [x] [_Double DQN_] **Deep Reinforcement Learning with Double Q-Learning** (AAAI 2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 - [ ] [_Prioritized Replay_] **Prioritized Experience Replay** (ICLR 2016), T. Schaul et al. [[pdf](https://arxiv.org/pdf/1511.05952.pdf)
 - [ ] [_Dueling DQN_] **Dueling Network Architectures for Deep Reinforcement Learning** (ICML 2016 Best Paper), Z. Wang et al. [[pdf](https://arxiv.org/pdf/1511.06581.pdf)
 - [ ] [_Policy Gradients_] **Policy Gradient Methods for Reinforcement Learning with Function Approximation** (NIPS 1999), R. Sutton et al. 
 - [ ] [_DDPG_] **Continuous control with deep reinforcement learning** (ICLR 2016), T. Lillicrap et al. [[pdf](https://arxiv.org/pdf/1509.02971.pdf)
 - [ ] [_TRPO_] **Trust Region Policy Optimization** (ICML 2015), J. Schulman et al. [[pdf]](https://arxiv.org/pdf/1502.05477.pdf)
 - [ ] [_A3C_] **Asynchronous Methods for Deep Reinforcement Learning** (ICML 2016), V. Mnih et al. [[pdf]](https://arxiv.org/pdf/1602.01783.pdf)
-- [ ] [_DAgger_] **A reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning** (AISTATS 2011), S. Ross et al. [[pdf]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)
+ross11a/ross11a.pdf)
 - [ ] **Continuous Deep Q-Learning with Model-based Acceleration** (ICML 2016), S. Gu et al. [[pdf]](https://arxiv.org/pdf/1603.00748.pdf)
 - [ ] **Real-Time Grasp Detection Using Convolutional Neural Networks** (ICRA 2015), J. Redmon and A. Angelova [[pdf]](https://arxiv.org/pdf/1412.3128.pdf)
 - [ ] **Deep Visual Foresight for Planning Robot Motion** (ICRA 2017), C. Finn and S. Levine [[pdf]](http://arxiv.org/pdf/1610.00696)
@@ -125,8 +126,6 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [ ] [_pix2pix_] **Image-to-Image Translation with Conditional Adversarial Nets** (CVPR 2017), P. Isola et al. [[pdf]](https://arxiv.org/pdf/1611.07004v1.pdf)
 - [ ] [_WGAN_] **Wasserstein GAN** (ICML 2016), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875.pdf)
 - [ ] [_PPGN_] **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space** (CVPR 2017), A. Nguyen et al. [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)
-- 
-### Other
 
 ## Control Theory
 
@@ -136,6 +135,4 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] **Bayesian Optimization for Learning Gaits Under Uncertainty** (2015), R. Calandra et al. [[pdf]](http://www.ausy.tu-darmstadt.de/uploads/Site/EditPublication/Calandra2015a.pdf)
 - [x] **Learning Quadrotor Dynamics Using Neural Network for Flight Control** (CDC 2016), S. Bansal et al. [[pdf]](https://arxiv.org/pdf/1610.05863.pdf)
 - [x] **Goal-Driven Dynamics Optimization via Bayesian Optimization** (CDC 2017), S. Bansal et al. [[pdf]](https://arxiv.org/pdf/1703.09260.pdf)
-
-### Other
 
