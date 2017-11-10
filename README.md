@@ -2,7 +2,7 @@
 
 A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers.
 
-*Last updated: 9/22/2017*
+*Last updated: 11/10/2017*
 
 ## General Resources
 
@@ -40,6 +40,9 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 
 - [x] [_UNREAL_] **Reinforcement Learning with Unsupervised Auxiliary Tasks** (ICLR 2017), M. Jaderberg et al. [[pdf]](https://arxiv.org/pdf/1611.05397.pdf)
 - [x] **Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning** (NIPS 2014), X. Guo et al. [[pdf]](https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)
+- [x] **A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning** (NIPS 2017), M. Lanctot et al. [[pdf]](https://arxiv.org/pdf/1711.00832.pdf)
+- [x] **Time-Contrastive Networks: Self-Supervised Learning from Video** P. Sermanet et al. [[pdf]](https://arxiv.org/pdf/1704.06888.pdf)
+- [x] **Curiosity-driven Exploration by Self-supervised Prediction** (ICML 2017), D. Pathak et al. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf)
 - [ ] [_DQN_] **Human-level control through deep reinforcement learning** (Nature 2015), V. Mnih et al. [[pdf]](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 - [ ] [_Double DQN_] **Deep Reinforcement Learning with Double Q-Learning** (AAAI 2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
 - [ ] [_Prioritized Replay_] **Prioritized Experience Replay** (ICLR 2016), T. Schaul et al. [[pdf](https://arxiv.org/pdf/1511.05952.pdf)
@@ -57,6 +60,7 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [ ] **Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning** (2017), A. Nagabandi et al. [[pdf]](https://arxiv.org/pdf/1708.02596)
 - [ ] **Learning with Opponent-Learning Awareness** (2017), J. Foerster et al. [[pdf]](https://arxiv.org/abs/1709.04326)
 - [ ] **An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning** (2017), Y. Yang et al. [[pdf]](https://arxiv.org/pdf/1709.04511.pdf)
+- [ ] **Learning to Poke by Poking: Experiential Learning of Intuitive Physics** (NIPS 2016, oral), P. Agrawal et al. [[pdf]](https://arxiv.org/pdf/1606.07419.pdf), [[site]](http://ashvin.me/pokebot-website/)
 
 ### Other
 
@@ -115,11 +119,13 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] **Adversarial Example Defenses: Ensembles of Weak Defenses are not Strong** (2017), W. He et al. [[pdf]](https://arxiv.org/pdf/1706.04701.pdf)
 - [x] **MagNet: a Two-Pronged Defense against Adversarial Examples** (2017), D. Meng and H. Chen [[pdf]](https://arxiv.org/pdf/1705.09064.pdf)
 - [ ] **Explaining and Harnessing Adversarial Examples** (ICLR 2015), I. Goodfellow et al. [[pdf]](https://pdfs.semanticscholar.org/bee0/44c8e8903fb67523c1f8c105ab4718600cdb.pdf)
-- [x] [_BiGANs_] **Adversarial Feature Learning** (ICLR 2017), J. Donahue et al. [[pdf]](https://arxiv.org/pdf/1510.00149.pdf)
-- [ ] [_CycleGANs_] **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)
+- [x] [_CAN_] **CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms** (ICCC 2017), A. Elgammal et al. [[pdf]](https://arxiv.org/pdf/1706.07068.pdf)
+- [x] [_BiGAN_] **Adversarial Feature Learning** (ICLR 2017), J. Donahue et al. [[pdf]](https://arxiv.org/pdf/1510.00149.pdf)
+- [ ] [_CycleGAN_] **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)
 - [ ] [_pix2pix_] **Image-to-Image Translation with Conditional Adversarial Nets** (CVPR 2017), P. Isola et al. [[pdf]](https://arxiv.org/pdf/1611.07004v1.pdf)
 - [ ] [_WGAN_] **Wasserstein GAN** (ICML 2016), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875.pdf)
-
+- [ ] [_PPGN_] **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space** (CVPR 2017), A. Nguyen et al. [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)
+- 
 ### Other
 
 ## Control Theory
