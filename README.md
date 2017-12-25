@@ -2,7 +2,7 @@
 
 A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers.
 
-*Last updated: 11/10/2017*
+*Last updated: 12/24/2017*
 
 ## General Resources
 
@@ -43,11 +43,13 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] **A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning** (NIPS 2017), M. Lanctot et al. [[pdf]](https://arxiv.org/pdf/1711.00832.pdf)
 - [x] **Time-Contrastive Networks: Self-Supervised Learning from Video** P. Sermanet et al. [[pdf]](https://arxiv.org/pdf/1704.06888.pdf)
 - [x] **Curiosity-driven Exploration by Self-supervised Prediction** (ICML 2017), D. Pathak et al. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf)
+- [x] **Learning to Poke by Poking: Experiential Learning of Intuitive Physics** (NIPS 2016, oral), P. Agrawal et al. [[pdf]](https://arxiv.org/pdf/1606.07419.pdf), [[site]](http://ashvin.me/pokebot-website/)
+- [x] **Time Limits in Reinforcement Learning**, F. Pardo et al. [[pdf]](https://arxiv.org/pdf/1712.00378.pdf)
 - [x] [_DQN_] **Human-level control through deep reinforcement learning** (Nature 2015), V. Mnih et al. [[pdf]](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
-- [x] [_DAgger_] **A reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning** (AISTATS 2011), S. Ross et al. [[pdf]](http://proceedings.mlr.press/v15/
+- [x] [_DAgger_] **A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning** (AISTATS 2011), S. Ross et al. [[pdf]](https://arxiv.org/pdf/1011.0686.pdf)
 - [x] [_Double DQN_] **Deep Reinforcement Learning with Double Q-Learning** (AAAI 2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
-- [ ] [_Prioritized Replay_] **Prioritized Experience Replay** (ICLR 2016), T. Schaul et al. [[pdf](https://arxiv.org/pdf/1511.05952.pdf)
-- [ ] [_Dueling DQN_] **Dueling Network Architectures for Deep Reinforcement Learning** (ICML 2016 Best Paper), Z. Wang et al. [[pdf](https://arxiv.org/pdf/1511.06581.pdf)
+- [ ] [_Prioritized Replay_] **Prioritized Experience Replay** (ICLR 2016), T. Schaul et al. [[pdf]](https://arxiv.org/pdf/1511.05952.pdf)
+- [ ] [_Dueling DQN_] **Dueling Network Architectures for Deep Reinforcement Learning** (ICML 2016 Best Paper), Z. Wang et al. [[pdf]](https://arxiv.org/pdf/1511.06581.pdf)
 - [ ] [_Policy Gradients_] **Policy Gradient Methods for Reinforcement Learning with Function Approximation** (NIPS 1999), R. Sutton et al. 
 - [ ] [_DDPG_] **Continuous control with deep reinforcement learning** (ICLR 2016), T. Lillicrap et al. [[pdf](https://arxiv.org/pdf/1509.02971.pdf)
 - [ ] [_TRPO_] **Trust Region Policy Optimization** (ICML 2015), J. Schulman et al. [[pdf]](https://arxiv.org/pdf/1502.05477.pdf)
@@ -61,7 +63,7 @@ ross11a/ross11a.pdf)
 - [ ] **Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning** (2017), A. Nagabandi et al. [[pdf]](https://arxiv.org/pdf/1708.02596)
 - [ ] **Learning with Opponent-Learning Awareness** (2017), J. Foerster et al. [[pdf]](https://arxiv.org/abs/1709.04326)
 - [ ] **An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning** (2017), Y. Yang et al. [[pdf]](https://arxiv.org/pdf/1709.04511.pdf)
-- [ ] **Learning to Poke by Poking: Experiential Learning of Intuitive Physics** (NIPS 2016, oral), P. Agrawal et al. [[pdf]](https://arxiv.org/pdf/1606.07419.pdf), [[site]](http://ashvin.me/pokebot-website/)
+
 
 ### Other
 
