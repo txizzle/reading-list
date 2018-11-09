@@ -1,8 +1,8 @@
 # Research Paper Reading List
 
-A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers.
+A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers, specifically in representation learning, reinforcement learning, and robotics. 
 
-*Last updated: 12/24/2017*
+*Last updated: 11/8/2018*
 
 ## General Resources
 
@@ -23,7 +23,7 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [CS 294-131: Special Topics in Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s17/), UC Berkeley, Spring 2017
 - [CS 231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Stanford
 
-### Blogs
+### Lab Blogs
 
 - [BAIR blog](http://bair.berkeley.edu/blog/)
 - [DeepMind blog](https://deepmind.com/blog/)
@@ -34,6 +34,12 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [NVIDIA blog](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [MSR blog](https://www.microsoft.com/en-us/research/blog/)
 
+### Personal Blogs
+
+- [Lilian Weng, OpenAI](https://lilianweng.github.io/lil-log/)
+- [Eric Jang, Robotics at Google](http://evjang.com/articles.html)
+- [Alex Irpan, Robotics at Google](https://www.alexirpan.com/)
+
 ## Reinforcement Learning (RL)
 
 ### Papers
@@ -41,7 +47,6 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [x] [_UNREAL_] **Reinforcement Learning with Unsupervised Auxiliary Tasks** (ICLR 2017), M. Jaderberg et al. [[pdf]](https://arxiv.org/pdf/1611.05397.pdf)
 - [x] **Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning** (NIPS 2014), X. Guo et al. [[pdf]](https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)
 - [x] **A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning** (NIPS 2017), M. Lanctot et al. [[pdf]](https://arxiv.org/pdf/1711.00832.pdf)
-- [x] **Time-Contrastive Networks: Self-Supervised Learning from Video** P. Sermanet et al. [[pdf]](https://arxiv.org/pdf/1704.06888.pdf)
 - [x] **Curiosity-driven Exploration by Self-supervised Prediction** (ICML 2017), D. Pathak et al. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf)
 - [x] **Learning to Poke by Poking: Experiential Learning of Intuitive Physics** (NIPS 2016, oral), P. Agrawal et al. [[pdf]](https://arxiv.org/pdf/1606.07419.pdf), [[site]](http://ashvin.me/pokebot-website/)
 - [x] **Time Limits in Reinforcement Learning**, F. Pardo et al. [[pdf]](https://arxiv.org/pdf/1712.00378.pdf)
@@ -51,8 +56,8 @@ A list of papers and resources I have read, am reading, or want to read. The maj
 - [ ] [_Prioritized Replay_] **Prioritized Experience Replay** (ICLR 2016), T. Schaul et al. [[pdf]](https://arxiv.org/pdf/1511.05952.pdf)
 - [ ] [_Dueling DQN_] **Dueling Network Architectures for Deep Reinforcement Learning** (ICML 2016 Best Paper), Z. Wang et al. [[pdf]](https://arxiv.org/pdf/1511.06581.pdf)
 - [ ] [_Policy Gradients_] **Policy Gradient Methods for Reinforcement Learning with Function Approximation** (NIPS 1999), R. Sutton et al. 
-- [ ] [_DDPG_] **Continuous control with deep reinforcement learning** (ICLR 2016), T. Lillicrap et al. [[pdf](https://arxiv.org/pdf/1509.02971.pdf)
-- [ ] [_TRPO_] **Trust Region Policy Optimization** (ICML 2015), J. Schulman et al. [[pdf]](https://arxiv.org/pdf/1502.05477.pdf)
+- [x] [_DDPG_] **Continuous control with deep reinforcement learning** (ICLR 2016), T. Lillicrap et al. [[pdf](https://arxiv.org/pdf/1509.02971.pdf)
+- [x] [_TRPO_] **Trust Region Policy Optimization** (ICML 2015), J. Schulman et al. [[pdf]](https://arxiv.org/pdf/1502.05477.pdf)
 - [ ] [_A3C_] **Asynchronous Methods for Deep Reinforcement Learning** (ICML 2016), V. Mnih et al. [[pdf]](https://arxiv.org/pdf/1602.01783.pdf)
 ross11a/ross11a.pdf)
 - [ ] **Continuous Deep Q-Learning with Model-based Acceleration** (ICML 2016), S. Gu et al. [[pdf]](https://arxiv.org/pdf/1603.00748.pdf)
@@ -60,9 +65,26 @@ ross11a/ross11a.pdf)
 - [ ] **Deep Visual Foresight for Planning Robot Motion** (ICRA 2017), C. Finn and S. Levine [[pdf]](http://arxiv.org/pdf/1610.00696)
 - [ ] **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (IJRR 2017), S. Levine et al. [[pdf]](http://journals.sagepub.com/doi/full/10.1177/0278364917710318)
 - [ ] **End-to-End Training of Deep Visuomotor Policies** (JMLR 2016), S. Levine et al. [[pdf]](http://arxiv.org/pdf/1504.00702)
-- [ ] **Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning** (2017), A. Nagabandi et al. [[pdf]](https://arxiv.org/pdf/1708.02596)
+- [x] **Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning** (2017), A. Nagabandi et al. [[pdf]](https://arxiv.org/pdf/1708.02596)
 - [ ] **Learning with Opponent-Learning Awareness** (2017), J. Foerster et al. [[pdf]](https://arxiv.org/abs/1709.04326)
 - [ ] **An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning** (2017), Y. Yang et al. [[pdf]](https://arxiv.org/pdf/1709.04511.pdf)
+- [x] **Exploration by Random Network Distillation** (2018), Y. Burda et al. [[pdf]](https://arxiv.org/pdf/1810.12894.pdf)
+- [x] **Time Reversal as Self-Supervision** (NIPS 2018), S. Nair et al. [[pdf]](https://arxiv.org/pdf/1810.01128.pdf) 
+- [x] **At Human Speed: Deep Reinforcement Learning with Action Delay** (2018), V. Firouiu et al. [[pdf]](https://arxiv.org/pdf/1810.07286.pdf)
+- [x] **Visual Reinforcement Learning with Imagined Goals** (2018), A. Nair et al. [[pdf]](https://arxiv.org/pdf/1807.04742.pdf)
+- [x] **Zero-Shot Visual Imitation** (ICLR 2018), D. Pathak et al. [[pdf]](https://arxiv.org/pdf/1804.08606.pdf)
+- [ ] **One-Shot Visual Imitation Learning via Meta-Learning** (CoRL 2017), C. Finn et al. [[pdf]](https://arxiv.org/pdf/1709.04905.pdf)
+- [ ] **One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning** (RSS 2018), T. Yu et al. [[pdf]](https://arxiv.org/pdf/1802.01557.pdf) 
+- [ ] **Large-Scale Study of Curiosity-Driven Learning** (ICML 2018), Y. Burda et al. [[pdf]](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
+- [ ] **Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review** (2018), S. Levine. [[pdf]](https://arxiv.org/pdf/1805.00909.pdf)
+- [ ] **Meta-Reinforcement Learning of Structured Exploration Strategies** (2018), A. Gupta et al. [[pdf]](https://arxiv.org/pdf/1806.04640.pdf)
+- [ ] **Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents** (2018), J. Leibo et al. [[pdf]](https://arxiv.org/pdf/1801.08116.pdf)
+- [ ] **Deep Reinforcement Learning for Vision-Based Robotic Grasping: A Simulated Comparitive Evaluation of Off-Policy Methods** (ICRA 2018), D. Quillen et al. [[pdf]](https://arxiv.org/pdf/1802.10264.pdf)
+- [x] **QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation** (CoRL 2018), D. Kalashnikov et al. [[pdf]](https://arxiv.org/pdf/1806.10293.pdf)
+- [ ] **Deep Reinforcement Learning that Matters** (AAAI 2017), P. Henderson et al. [[pdf]](https://arxiv.org/pdf/1709.06560.pdf)
+- [ ] **Soft Actor-Critic:
+Off-Policy Maximum Entropy Deep Reinforcement
+Learning with a Stochastic Actor** (ICML 2018), T. Haarnoja [[pdf]](https://arxiv.org/pdf/1801.01290.pdf)
 
 
 ### Other
@@ -72,6 +94,23 @@ ross11a/ross11a.pdf)
 - [x] [_Policy Gradients_] **Deep Reinforcement Learning: Pong from Pixels** (2016), A. Karpathy [[article]](http://karpathy.github.io/2016/05/31/rl/)
 - [x] [_A3C_] **Let's Make an A3C: Theory**, J. Janisch [[article]](https://jaromiru.com/2017/02/16/lets-make-an-a3c-theory/)
 - [ ] [_Policy Gradients_] **Going Deeper Into Reinforcement Learning: Fundamentals of Policy Gradients** (2017), D. Takeshi [[article](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)]
+- [x] **Deep Reinforcement Learning Doesn't Work Yet** (2018), A. Irpan. [[article]](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+
+
+## Representation Learning
+
+### Papers
+
+- [x] [_TCN_] **Time-Contrastive Networks: Self-Supervised Learning from Video** (CVPR 2017), P. Sermanet et al. [[pdf]](https://arxiv.org/pdf/1704.06888.pdf)
+- [ ] **Learning an Embedding Space for Transferable Robot Skills** (ICLR 2018), K. Hausman et al. [[pdf]](https://openreview.net/pdf?id=rk07ZXZRb) 
+- [ ] [_VAE_] **Auto-Encoding Variational Bayes** (ICLR 2013), D. Kingma et al. [[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
+- [ ] [_Transformer_] **Attention is All You Need** (NIPS 2017), A. Vaswani et al. [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
+
+
+### Other
+
+- [ ] **From Autoencoder to Beta-VAE**, L. Weng [[article]](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+
 
 ## Computer Vision / CNNs
 
@@ -103,7 +142,7 @@ ross11a/ross11a.pdf)
 - [x] **Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization, and Huffman Coding** (ICLR 2016), S. Han et al. [[pdf]](https://arxiv.org/pdf/1510.00149.pdf)
 - [x] **Exploring the Regularity of Sparse Structure in Convolutional Neural Networks** (NIPS 2017), H. Mao et al. [[pdf]](https://arxiv.org/pdf/1705.08922.pdf)
 - [ ] **DSD: Dense-Sparse-Dense Training for Deep Neural Networks** (ICLR 2017), S. Han et al. [[pdf]](https://openreview.net/pdf?id=HyoST_9xl)
-- [ ] **Trained Tenary Quantization** (ICLR 2017), K. Guo et al.
+- [ ] **Trained Ternary Quantization** (ICLR 2017), K. Guo et al.
 - [ ] **Pruning Convolutional Neural Networks for Resource Efficient Inference** (ICLR 2017), P. Molchanov et al. [[pdf]](https://arxiv.org/pdf/1611.06440.pdf)
 - [ ] **Pruning Filters for Efficient ConvNets** (ICLR 2017), H. Li et al. [[pdf]](https://arxiv.org/pdf/1608.08710.pdf)
 - [ ] **Structured Pruning of Deep Convolutional Neural Networks** (2015), S. Anwar et al. [[pdf]](https://arxiv.org/pdf/1512.08571.pdf)
@@ -124,7 +163,7 @@ ross11a/ross11a.pdf)
 - [ ] **Explaining and Harnessing Adversarial Examples** (ICLR 2015), I. Goodfellow et al. [[pdf]](https://pdfs.semanticscholar.org/bee0/44c8e8903fb67523c1f8c105ab4718600cdb.pdf)
 - [x] [_CAN_] **CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms** (ICCC 2017), A. Elgammal et al. [[pdf]](https://arxiv.org/pdf/1706.07068.pdf)
 - [x] [_BiGAN_] **Adversarial Feature Learning** (ICLR 2017), J. Donahue et al. [[pdf]](https://arxiv.org/pdf/1510.00149.pdf)
-- [ ] [_CycleGAN_] **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)
+- [x] [_CycleGAN_] **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (ICCV 2017), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)
 - [ ] [_pix2pix_] **Image-to-Image Translation with Conditional Adversarial Nets** (CVPR 2017), P. Isola et al. [[pdf]](https://arxiv.org/pdf/1611.07004v1.pdf)
 - [ ] [_WGAN_] **Wasserstein GAN** (ICML 2016), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875.pdf)
 - [ ] [_PPGN_] **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space** (CVPR 2017), A. Nguyen et al. [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)
@@ -138,3 +177,7 @@ ross11a/ross11a.pdf)
 - [x] **Learning Quadrotor Dynamics Using Neural Network for Flight Control** (CDC 2016), S. Bansal et al. [[pdf]](https://arxiv.org/pdf/1610.05863.pdf)
 - [x] **Goal-Driven Dynamics Optimization via Bayesian Optimization** (CDC 2017), S. Bansal et al. [[pdf]](https://arxiv.org/pdf/1703.09260.pdf)
 
+## Other
+
+### Papers
+- [x] **How to Read a Paper** (ACM SIGCOMM 2007), S. Keshav. [[pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
