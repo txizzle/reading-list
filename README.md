@@ -2,7 +2,7 @@
 
 A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers, specifically in representation learning, reinforcement learning, and robotics. 
 
-*Last updated: 11/8/2018*
+*Last updated: 11/15/2018*
 
 ## General Resources
 
@@ -82,10 +82,8 @@ ross11a/ross11a.pdf)
 - [ ] **Deep Reinforcement Learning for Vision-Based Robotic Grasping: A Simulated Comparitive Evaluation of Off-Policy Methods** (ICRA 2018), D. Quillen et al. [[pdf]](https://arxiv.org/pdf/1802.10264.pdf)
 - [x] **QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation** (CoRL 2018), D. Kalashnikov et al. [[pdf]](https://arxiv.org/pdf/1806.10293.pdf)
 - [ ] **Deep Reinforcement Learning that Matters** (AAAI 2017), P. Henderson et al. [[pdf]](https://arxiv.org/pdf/1709.06560.pdf)
-- [ ] **Soft Actor-Critic:
-Off-Policy Maximum Entropy Deep Reinforcement
-Learning with a Stochastic Actor** (ICML 2018), T. Haarnoja [[pdf]](https://arxiv.org/pdf/1801.01290.pdf)
-
+- [x] [_R2D2_] **Recurrent Experience Replay in Distributed Reinforcement Learning** (Under Review, ICLR 2019). [[pdf]](https://openreview.net/pdf?id=r1lyTjAqYX)
+- [ ] **Modular Meta-learning** (CoRL 2018), F. Alet et al. [[pdf]](http://lis.csail.mit.edu/pubs/alet-corl18.pdf)
 
 ### Other
 
