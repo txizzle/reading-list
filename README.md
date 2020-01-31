@@ -1,3 +1,5 @@
+This is a good paper: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.114.191803
+
 # Research Paper Reading List
 
 A list of papers and resources I have read, am reading, or want to read. The majority are deep learning research papers, specifically in representation learning, reinforcement learning, and robotics. 
